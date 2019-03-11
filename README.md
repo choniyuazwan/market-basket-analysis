@@ -8,6 +8,8 @@
 - https://webfocusinfocenter.informationbuilders.com/wfappent/TLs/TL_rstat/source/marketbasket49.htm
 
 ### Example
+- http://rasbt.github.io/mlxtend/user_guide/frequent_patterns/apriori/
+- http://rasbt.github.io/mlxtend/user_guide/frequent_patterns/association_rules/
 - https://medium.com/@hafizhan.aliady/market-basket-analysis-acossiation-rule-menggunakan-python-1012f9e1611d
 - https://pbpython.com/market-basket-analysis.html
 - https://www.kaggle.com/datatheque/association-rules-mining-market-basket-analysis
@@ -19,6 +21,4 @@
 - http://www.datasciencemadesimple.com/reshape-using-stack-unstack-function-pandas-python/
 - https://pbpython.com/pandas-pivot-table-explained.html
 - https://pandas.pydata.org/pandas-docs/stable/user_guide/reshaping.html
-- http://rasbt.github.io/mlxtend/user_guide/frequent_patterns/apriori/
-- http://rasbt.github.io/mlxtend/user_guide/frequent_patterns/association_rules/
 - https://github.com/wesm/pydata-book
